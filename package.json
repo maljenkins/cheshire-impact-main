@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.1.3",
-  "author": "Austin Green",
+  "name": "cheshire-impact-main",
+  "description": "Cheshire Impact",
+  "version": "0.0.1",
+  "author": "Malcolm Jenkins",
   "dependencies": {
     "bulma": "^0.9.0",
     "gatsby": "^2.20.35",
